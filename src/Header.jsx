@@ -1,7 +1,5 @@
 import React, { useEffect, useState } from "react";
 
-import logo from "./assets/logo-color.svg";
-
 const Header = () => {
   const [scrolled, setScrolled] = useState(false);
 
